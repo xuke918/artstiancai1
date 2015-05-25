@@ -59,10 +59,26 @@ h2 {
   padding-left: 15px;
 }
 
-div {
+.box-1 {
   padding: 15px;
   background-color: lightgrey;
+  margin: 10px;
 }
+
+.box-2 {
+  padding: 15px;
+  background-color: lightgrey;
+  margin: 10px;
+}
+
+.box-3 {
+  padding: 15px;
+  background-color: lightgrey;
+  margin: 10px;
+}
+
+
+
 
 h3 {
   margin: 0;
@@ -113,5 +129,6 @@ dd {
 }
 
 .social {
-  width: 15%;
+  width: 10%;
+
 }
