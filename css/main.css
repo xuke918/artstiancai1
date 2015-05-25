@@ -81,8 +81,11 @@ h2 {
   margin: 10px;
 }
 
-
-
+button {
+  color: #fff;
+  border-radius: 8px;
+  background-color: #1B75BB;
+}
 
 h3 {
   margin: 0;
