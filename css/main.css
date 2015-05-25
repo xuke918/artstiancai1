@@ -89,3 +89,34 @@ dt {
 dd {
   margin-left: 0px;
 }
+
+.f1 {
+  padding: 10px 0px 0px 10px;
+  font-size: 0.7em;
+}
+
+.f2 {
+  padding: 0px 10px;
+  font-size: 0.7em;
+}
+
+.address {
+  padding: 10px 0px 10px 10px;
+  width: 30%;
+  font-size: 0.7em;
+}
+
+.time {
+  padding: 10px 0px 10px 10px;
+  font-size: 0.7em;
+}
+
+.contact {
+  float: right;
+  position: relative;
+
+}
+
+ul li {
+  list-style-type: none;
+}
