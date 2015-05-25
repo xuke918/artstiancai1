@@ -68,3 +68,21 @@ h3 {
 img {
   width: 100%;
 }
+
+p {
+  margin: 0;
+}
+
+dl {
+  margin: 0;
+}
+
+dt {
+  float: left;
+  clear: left;
+  margin-right: 5px;
+}
+
+dd {
+  margin-left: 0px;
+}
