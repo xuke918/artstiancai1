@@ -96,7 +96,7 @@ dd {
 }
 
 .f2 {
-  padding: 0px 10px;
+  padding: 0px 0em 10px 10px;
   font-size: 0.7em;
 }
 
@@ -112,22 +112,6 @@ dd {
   width: 45%;
 }
 
-.contact {
-  float: right;
-  position: absolute;
-  right: 25px;
-  top: 1550px;
-  display: block;
-overflow: hidden;
-
-}
-
-ul li {
-  list-style-type: none;
-  padding: 20px 0px 20px 0px;
-}
-
-ul {
-  padding: 0;
-  margin: 0;
+.social {
+  width: 15%;
 }
