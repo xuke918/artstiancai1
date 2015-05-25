@@ -16,6 +16,7 @@ body {
   width: 30px;
   position: relative;
   right: -140px;
+
 }
 
 
@@ -29,6 +30,8 @@ h1 {
 nav ol {
   padding: 0;
   background-color: lightgrey;
+  overflow: hidden;
+  text-align: center;
 }
 
 nav li {
