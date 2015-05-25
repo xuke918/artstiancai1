@@ -12,6 +12,10 @@ body {
   padding: 0;
 }
 
+header {
+  background-color: #E6E7E8;
+}
+
 .logo {
   width: 30px;
   position: relative;
@@ -61,19 +65,19 @@ h2 {
 
 .box-1 {
   padding: 15px;
-  background-color: lightgrey;
+  background-color: #E6E7E8;
   margin: 10px;
 }
 
 .box-2 {
   padding: 15px;
-  background-color: lightgrey;
+  background-color: #E6E7E8;
   margin: 10px;
 }
 
 .box-3 {
   padding: 15px;
-  background-color: lightgrey;
+  background-color: #E6E7E8;
   margin: 10px;
 }
 
@@ -131,4 +135,9 @@ dd {
 .social {
   width: 10%;
 
+}
+
+
+footer {
+  background-color:#D1D2D4;
 }
