@@ -14,12 +14,11 @@ body {
 
 header {
   background-color: #E6E7E8;
+  text-align: center;
 }
 
 .logo {
   width: 30px;
-  position: relative;
-  right: -140px;
 
 }
 
