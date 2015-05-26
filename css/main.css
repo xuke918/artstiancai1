@@ -18,6 +18,7 @@ header {
 }
 
 .logo {
+  padding-top: 10px;
   width: 30px;
 
 }
@@ -57,7 +58,7 @@ nav a {
 }
 
 h2 {
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: bold;
   padding-left: 15px;
 }
@@ -88,6 +89,7 @@ button {
 
 h3 {
   margin: 0;
+  font-size: 1em;
 }
 
 img {
@@ -134,12 +136,23 @@ dd {
   width: 45%;
 }
 
-.social {
-  width: 10%;
-
+ul {
+  margin: 0;
 }
 
+ul li {
+  width: 10%;
+  list-style-type: none;
+  position: relative;
+  top: -170px;
+  right: -190px;
+}
+
+.social {
+  padding-bottom: 20px;
+}
 
 footer {
   background-color:#D1D2D4;
+
 }
