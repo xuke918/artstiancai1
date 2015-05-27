@@ -143,9 +143,12 @@ ul {
 ul li {
   width: 10%;
   list-style-type: none;
+  display: block;
   position: relative;
-  top: -170px;
+  top: -180px;
   right: -190px;
+
+
 }
 
 .social {
@@ -154,5 +157,4 @@ ul li {
 
 footer {
   background-color:#D1D2D4;
-
 }
